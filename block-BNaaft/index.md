@@ -2,7 +2,7 @@ writeCode
 
 Create an event management website using express & mongoDB where users visiting the site can
 
-1. Add Events
+1. Add  Events
 2. View list of all events
 3. Add remarks to each events listed
 4. Delete events
